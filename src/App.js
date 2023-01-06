@@ -8,7 +8,7 @@ import ScrollToTOp from './components/ScrollToTop'
 
 function App() {
   return (
-    <div className='max-w-[1350px] mx-auto bg-white'>
+    <div className='mx-auto bg-white'>
     <ScrollToTOp />
       <Header />
       <Routes>
